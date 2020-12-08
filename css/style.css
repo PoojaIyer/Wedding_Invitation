@@ -969,13 +969,17 @@ form label {
   margin-bottom: 2em;
 }
 #fh5co-couple h2,
-#fh5co-footer h2{
+#fh5co-footer h2 {
   font-size: 60px;
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
   color: #fcf8e3;
   font-family: "Sacramento", Arial, serif
+}
+
+#fh5co-footer h2{
+  color: #F14E95;
 }
 .fh5co-heading h2 {
   font-size: 60px;
