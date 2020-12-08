@@ -1339,10 +1339,8 @@ form label {
   bottom: 0;
   background: rgba(0, 0, 0, 0.4);
 }
-#fh5co-started .fh5co-heading h2 {
-  color: #fff;
-}
-.fh5co-heading h3 {
+#fh5co-started .fh5co-heading h2,
+.fh5co-heading h4 {
   color: #fff;
 }
 #fh5co-started .fh5co-heading p {
