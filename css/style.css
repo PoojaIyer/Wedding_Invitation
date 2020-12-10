@@ -919,7 +919,10 @@ form label {
     text-align: center;
   }
 }
-
+.desc-groom h3,
+.desc-bride h3 {
+  margin-top: 50px
+}
 .feature-center {
   text-align: center;
   padding-left: 20px;
