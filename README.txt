@@ -1,4 +1,4 @@
-Hosting - https://app.netlify.com/sites/apweddinginvitation/settings/domain
+Hosting - https://app.netlify.com/sites/amrutwedspooja/settings/domain
 
 Bootstrap
 http://getbootstrap.com/
